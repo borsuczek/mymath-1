@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1522189464 source:c:\users\jd\desktop\langs\project\main.cpp
+	<iostream>
+	<cmath>
+	"mymath.h"
+
+1522189344 c:\users\jd\desktop\langs\project\mymath.h
+
+1522189544 source:c:\users\jd\desktop\langs\project\mymath.cpp
+	<cmath>
+
