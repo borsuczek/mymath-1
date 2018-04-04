@@ -3,10 +3,10 @@
 ---
 
 **The length of the line segment**  
-__double lengthLineSegment(double, double, int, double fun(double))__  
+_double lengthLineSegment(double, double, int, double fun(double))_  
   a, b - endpoints  
   n - the number of segments in the interval <a;b>
 
 **The square root of x**  
-__double squareRoot(double, double)__  
-__double squareRoot(double)__
+_double squareRoot(double, double)_  
+_double squareRoot(double)_
